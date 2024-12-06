@@ -1,6 +1,9 @@
 # PROJECT: Analysis of Personnel Turnover in a Company
+
 📋 Project Summary
+
 INTRODUCTION
+
 This project aims to analyze personnel turnover in a company, in order to identify patterns and trends that can help improve employee retention.
 
 METHODOLOGY
